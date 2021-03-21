@@ -1,5 +1,5 @@
 {
-  "name": "Electron+React+Typescript",
+  "name": "electron-quick-start",
   "version": "0.1.0",
   "private": true,
   "main": "./src/main.js",
